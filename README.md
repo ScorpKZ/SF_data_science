@@ -1,0 +1,2 @@
+# SF_data_science
+DST159 NURLAN KUANYSHEV
