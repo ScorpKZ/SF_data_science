@@ -1,3 +1,2 @@
 # SF_data_science
-DST159 NURLAN KUANYSHEV
-DSFDSFSFDFDFSFSFFSDF
+this is homework repository for DST159 course SkillFactory
