@@ -6,5 +6,5 @@ From the [Skill Factory Data Cience course](https://skillfactory.ru/data-scienti
 
 ## Проекты
 
- * [Проект 0. Игра: угадай число](https://githab.com/ScorpKZ/SF_data_science/project_8_Итоги/)
+ * [Проект 0. Игра: угадай число](https://githab.com/ScorpKZ/SF_data_science/tree/main/project_8_Итоги/)
 
