@@ -1,6 +1,10 @@
 # SF_data_science
 
-home work PYTON-8 ИТОГОВОЕ Задание
-написать V3 игры которая угадывает число за 20 попыток
+# My Data Science project
 
-получилось за 10
+From the [Skill Factory Data Cience course](https://skillfactory.ru/data-scientist)
+
+## Проекты
+
+  [Проект 0. Игра угадай чисо] (https://githab.com/ScorpKZ/SF_data_science/project_8_Итоги/)
+
