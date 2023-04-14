@@ -1,5 +1,3 @@
-# SF_data_science
-
 # My Data Science project
 
 From the [Skill Factory Data Cience course](https://skillfactory.ru/data-scientist)
