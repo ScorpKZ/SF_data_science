@@ -50,4 +50,4 @@ def score_game():
         counters_list.append(game_core_v3(number))
         number += 1
     return counters_list
-    
+print (score_game())    
